@@ -8,12 +8,10 @@ langchain-openai
 python-dotenv
 faiss-cpu
 pypdf
-speechrecognition
-pydub
-pyaudio
 langchain_huggingface
 sentence-transformers
 pytesseract
 pillow
 docx2txt
 pandas
+google-generativeai
